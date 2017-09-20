@@ -14,6 +14,6 @@
 11. Dokončení
 
 # Zdroje
-1. http://www.pyroelectro.com/projects/8x8x8_led_cube/hardware3.html
-2. http://www.instructables.com/id/Led-Cube-8x8x8/
-3. http://www.instructables.com/id/8x8x8-Arduino-LED-Cube/
+- http://www.pyroelectro.com/projects/8x8x8_led_cube/hardware3.html
+- http://www.instructables.com/id/Led-Cube-8x8x8/
+- http://www.instructables.com/id/8x8x8-Arduino-LED-Cube/
