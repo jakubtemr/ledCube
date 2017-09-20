@@ -1,6 +1,6 @@
 # Projekt ledCube s Arduino Uno
 
-# Postup práce
+# Postup práce:
 1. Sbírání informací o hardware a Konzultace s Panem učitelem Mikeschem
 2. příprava hardware
 3. Pájení
@@ -12,3 +12,8 @@
 9. Ladění
 10. Výroba podstavce
 11. Dokončení
+
+# Zdroje
+1. http://www.pyroelectro.com/projects/8x8x8_led_cube/hardware3.html
+2. http://www.instructables.com/id/Led-Cube-8x8x8/
+3. http://www.instructables.com/id/8x8x8-Arduino-LED-Cube/
