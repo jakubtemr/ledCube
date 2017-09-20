@@ -1,4 +1,5 @@
 #Projekt ledCube s Arduino Uno
+
 #Postup práce
 1. Sbírání informací o hardware a Konzultace s Panem učitelem Mikeschem
 2. příprava hardware
