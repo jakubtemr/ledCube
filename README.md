@@ -1,7 +1,7 @@
 # Projekt ledCube s Arduino Uno
 
 # Postup práce:
-1. Sbírání informací o hardware a Konzultace s Panem učitelem Mikeschem
+1. Sbírání informací o hardware
 2. příprava hardware
 3. Pájení
 4. Pájení
@@ -17,3 +17,20 @@
 - http://www.pyroelectro.com/projects/8x8x8_led_cube/hardware3.html
 - http://www.instructables.com/id/Led-Cube-8x8x8/
 - http://www.instructables.com/id/8x8x8-Arduino-LED-Cube/
+- http://www.jameco.com/Jameco/workshop/JamecoFavorites/8x8x8-led-cube.html
+- https://www.youtube.com/watch?v=T5Aq7cRc-mU
+
+20.9 # Seznam komponentů:
+5mm diffused blue LEDs x 512 
+20 AWG tinned copper wire
+5V 10A regulated switching power supply 
+Ribbon cables 
+PN2222 transistors x 16 
+220 ohm resistors x 64 
+74HC595 shift registers x 9 
+Arduino Uno R3 
+Prototyping board 
+Wires
+Buttons
+Red LED 
+Green LED 
