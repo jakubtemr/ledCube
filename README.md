@@ -20,17 +20,18 @@
 - http://www.jameco.com/Jameco/workshop/JamecoFavorites/8x8x8-led-cube.html
 - https://www.youtube.com/watch?v=T5Aq7cRc-mU
 
-20.9 # Seznam komponentů:
-5mm diffused blue LEDs x 512 
-20 AWG tinned copper wire
-5V 10A regulated switching power supply 
-Ribbon cables 
-PN2222 transistors x 16 
-220 ohm resistors x 64 
-74HC595 shift registers x 9 
-Arduino Uno R3 
-Prototyping board 
-Wires
-Buttons
-Red LED 
-Green LED 
+20.9
+# Seznam komponentů:
+- 5mm diffused blue LEDs x 512 
+- 20 AWG tinned copper wire
+- 5V 10A regulated switching power supply 
+- Ribbon cables 
+- PN2222 transistors x 16 
+- 220 ohm resistors x 64 
+- 74HC595 shift registers x 9 
+- Arduino Uno R3 
+- Prototyping board 
+- Wires
+- Buttons
+- Red LED 
+- Green LED 
