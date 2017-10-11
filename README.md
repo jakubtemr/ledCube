@@ -36,12 +36,10 @@
 - Red LED 
 - Green LED 
 
-10.10
-#
+# 10.10
 -již přišly transistory,posuvné registry, vývojová deska a odpory
 -nyní čekám na ledky, poté se pustím do pájení
 
-11.10
-#
+# 11.10
 -studium fungování bluethooth shielu
 -instalace android studia a tvorba základní "hello world" aplikace v jazyce Java na vestavěném emulátoru
