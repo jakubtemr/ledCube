@@ -43,4 +43,5 @@
  11.10
 - studium fungování bluethooth shielu
 - instalace android studia a tvorba základní "hello world" aplikace v jazyce Java na vestavěném emulátoru
-- kicad navrh
+ 29.10
+- navrh schematu
