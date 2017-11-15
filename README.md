@@ -1,8 +1,8 @@
 # Projekt ledCube s Arduino Uno
 
 # Postup práce:
-1. Sbírání informací o hardware
-2. příprava hardware
+1. Sbírání informací o hardware-
+2. příprava hardware-
 3. Pájení
 4. Pájení
 5. Pájení
@@ -22,19 +22,19 @@
 
 20.9
 # Seznam komponentů:
-- 5mm diffused blue LEDs x 512 
+- 5mm diffused blue LEDs x 512 -
 - 20 AWG tinned copper wire
-- 5V 10A regulated switching power supply 
+- 5V 10A regulated switching power supply -
 - Ribbon cables 
-- PN2222 transistors x 16 
-- 220 ohm resistors x 64 
-- 74HC595 shift registers x 9 
-- Arduino Uno R3 
-- Prototyping board 
-- Wires
+- PN2222 transistors x 16 -
+- 220 ohm resistors x 64 -
+- 74HC595 shift registers x 9 -
+- Arduino Uno R3 -
+- Prototyping board -
+- Wires -
 - Buttons
-- Red LED 
-- Green LED 
+- Red LED -
+- Green LED -
 
  10.10
 - již přišly transistory,posuvné registry, vývojová deska a odpory
@@ -45,3 +45,5 @@
 - instalace android studia a tvorba základní "hello world" aplikace v jazyce Java na vestavěném emulátoru
  29.10
 - navrh schematu
+
+
