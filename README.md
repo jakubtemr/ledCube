@@ -46,4 +46,4 @@
  29.10
 - navrh schematu
 
-
+https://socv2.nidv.cz/archiv36/getWork/hash/cb6b2f3c-a46a-11e3-98b3-faa932cbcfda
