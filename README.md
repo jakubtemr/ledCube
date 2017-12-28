@@ -41,9 +41,6 @@
 - nyní čekám na ledky, poté se pustím do pájení
 
  11.10
-- studium fungování bluethooth shielu
-- instalace android studia a tvorba základní "hello world" aplikace v jazyce Java na vestavěném emulátoru
- 29.10
 - navrh schematu
 
 https://socv2.nidv.cz/archiv36/getWork/hash/cb6b2f3c-a46a-11e3-98b3-faa932cbcfda
