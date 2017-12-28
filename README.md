@@ -48,3 +48,5 @@ https://socv2.nidv.cz/archiv36/getWork/hash/cb6b2f3c-a46a-11e3-98b3-faa932cbcfda
 19.12
 -všech 8 vrstev už je popájeno, je třeba sehnat nějaký vyhovující podstavec. bez něho nemůžu popájet vrstvy dohromady
 -vygenerováno schéma v eagle. generovaní desky nevyhovuje, konzultace s panem Godovským/Grussmannem
+22.12 práce hotoví
+28.12 dokumentace poslána panu Lučnému
